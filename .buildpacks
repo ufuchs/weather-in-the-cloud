@@ -1,0 +1,4 @@
+http://github.com/heroku/heroku-buildpack-nodejs.git
+http://github.com/stomita/heroku-buildpack-phantomjs.git
+https://github.com/peterkeen/heroku-buildpack-vendorbinaries.git
+
