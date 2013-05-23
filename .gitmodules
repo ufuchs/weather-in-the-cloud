@@ -1,0 +1,4 @@
+[submodule "weather-on-server"]
+	path = .
+	url = git://github.com/ufuchs/weather-on-server.git
+	      
