@@ -5,7 +5,7 @@
 module.exports = {
 
     cmd : {
-        pngcrush : 'pngcrush/bin/pngcrush -c 0 {{inPng}} {{outPng}}',
+        pngcrush : 'pngcrush -c 0 {{inPng}} {{outPng}}',
         phantomjs : 'phantomjs {{script}} {{inSvg}} {{outPng}} 1.0'
     }
 
